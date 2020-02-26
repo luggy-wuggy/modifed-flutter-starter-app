@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.indigo
       ),
-      home: MyHomePage(title: 'Hot Reload'),
+      home: MyHomePage(title: 'Flutter Counter'),
     );
   }
 }
